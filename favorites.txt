@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Pizza
 Chocolate Ice-Cream
 Mix Veg Uttapam
+=======
+URI
+Mersal
+GOLMAAL
+>>>>>>> movies
